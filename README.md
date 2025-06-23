@@ -2,7 +2,7 @@
 
 Welcome to **Dumpsky Advance**, a modern, single-file, web-based utility for analyzing, triaging, and exporting MySQL/MariaDB databases with real-time progress. Built with PHP, Vanilla JS, and Tailwind CSS.
 
-![Dumpsky Advance Screenshot](https://prnt.sc/n3IjqasJTQOz) ---
+![Dumpsky Advance Screenshot](https://prnt.sc/spKgAFWP-aFD) ---
 
 ### Why is Dumpsky Advance useful?
 
