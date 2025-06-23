@@ -2,8 +2,6 @@
 
 Welcome to **Dumpsky Advance**, a modern, single-file, web-based utility for analyzing, triaging, and exporting MySQL/MariaDB databases with real-time progress. Built with PHP, Vanilla JS, and Tailwind CSS.
 
-![Dumpsky Advance Screenshot](Dashboard.png) ---
-
 ### Why is Dumpsky Advance useful?
 
 In a world of complex developer tools, sometimes you need a simple, powerful, and self-contained solution. This database exporter was built to solve common frustrations with database management:
@@ -75,3 +73,6 @@ Follow these simple steps to get Dumpsky Advance running.
     * Alternatively, click **"Export Skipped Tables"** to download just the large tables you set aside.
     * Watch the real-time progress bar.
     * When complete, a download button will appear. Click it to save your backup file.
+
+![Dumpsky Advance Screenshot](https://github.com/RaviVerse/Dumpsky-Advance/blob/main/Database%20Connection.png)
+![Dumpsky Advance Screenshot]( Dashboard.png)
